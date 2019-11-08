@@ -1,2 +1,2 @@
 # ExerciciosPA
-Exercícios do Nilson
+Exercícios do Nilson feitos ao longo do curso.
